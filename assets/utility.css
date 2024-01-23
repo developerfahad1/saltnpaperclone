@@ -1,0 +1,144 @@
+/* utility classes  */
+
+/* flex classes start */
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-between{
+    align-items: space-between;
+}
+
+.align-around{
+    align-items: space-around;
+}
+
+.align-evenly{
+    align-items: space-evenly;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+/* flex classes end */
+
+/* margin classes start  */
+
+.mt-1{
+    margin-top: 5px;
+}
+.mt-2{
+    margin-top: 10px;
+}
+.mt-3{
+    margin-top: 15px;
+}
+.mt-4{
+    margin-top: 20px;
+}
+
+.margin-top{
+    margin-top: 25px;
+}
+
+/* margin classes end  */
+
+/* color classes start  */
+.bg-light{
+    background-color: #ffffff;
+}
+
+.bg-dark{
+    background-color: #000000;
+}
+
+.bg-grey{
+    background-color: #0f0f0f;
+}
+
+.text-dark{
+    color: #000000;
+}
+
+.text-light{
+    color: #ffffff;
+}
+
+.text-red{
+    color: #ff0000;
+}
+
+.text-gray{
+    color: rgba(255,255, 255, 0.7);
+}
+
+.transparent{
+    background-color: transparent;
+}
+
+#btn-icon{
+    padding: 5px 7px;
+}
+/* color classes end  */
+
+.rounded{
+    border-radius: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+/* padding started */
+
+.p-1{
+    padding: 5px;
+}
+
+.p-1{
+    padding: 5px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+.p-1{
+    padding: 15px;
+}
+
+.p-1{
+    padding: 20px;
+}
+
+.p-1{
+    padding: 5px;
+}
+
+
+

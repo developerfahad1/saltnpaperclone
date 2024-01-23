@@ -1,0 +1,160 @@
+/* color variable  */
+ * {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+
+:root{
+    --red :#f42625;
+    --white : #ffffff;
+    --black : #000000;
+}
+
+#main-logo{
+    width: 165px;
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+#navbar{
+    gap: 30px;
+}
+
+#navbar{
+    padding: 0px 10px;
+}
+
+#navbar-items{
+    gap: 40px;
+}
+
+#frenchies{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px ;
+    cursor: pointer;
+}
+
+#order-online{
+    background-color:var(--red);
+    border: 0px;
+    padding: 15px 20px ;
+    cursor: pointer;
+}
+
+.red{
+    color: var(--red);
+}
+
+#head-one{
+    text-align: center;
+}
+
+#head-two{
+    text-align: center;
+}
+
+#children-images{
+    gap: 30px;
+}
+
+#row-one{
+    gap: 30px;
+}
+
+#row-two{
+    gap: 30px;
+}
+
+#row-three{
+    gap: 30px;
+}
+.country-loc{
+    letter-spacing: 5px;
+}
+
+#first-loc{
+    padding: 0px 10px;
+}
+
+/* islamabad design  */
+#order-online-btn{
+    /* background-color:var(--red); */
+    border: 1px solid white;
+    padding: 15px 20px ;
+    cursor: pointer;
+    background-color: transparent;
+}
+#btn-icon-btn{
+    color: white;
+}
+#social-feed{
+    gap: 25px;
+}
+
+
+
+
+
+#footer-padding{
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    padding-right: 20px;
+}
+
+#footer-logo{
+    padding-left: 2px;
+}
+
+
+#footer-color{
+    background-color: rgb(10, 10, 10);
+}
+
+#footer-para{
+    text-align: left;
+}
+
+.container{
+    margin-bottom: 20px;
+}
+
+/* about us page designing started  */
+
+.introduction-para{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+#text{
+    text-align: left;
+}
+
+.bg-div-color{
+    background-color: #ffffff0f;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#div-gap-1{
+    gap: 15px;
+}
+
+#div-two-2{
+    padding-top: 15px;
+    gap: 15px;
+
+}
+
+#pd-1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
